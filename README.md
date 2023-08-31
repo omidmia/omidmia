@@ -1,5 +1,6 @@
 # 💫 About Me:
-Maihan Kala
+a backend developer artist and dancer from Afghanistan.
+## the agent of FSF in Afghanistan
 
 
 ## 🌐 Socials:
